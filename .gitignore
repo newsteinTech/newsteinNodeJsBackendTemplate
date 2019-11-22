@@ -1,0 +1,7 @@
+/node_modules
+/dist
+package-loack.json
+tutorial.pem
+classes/*
+src/contants/secrets.ts
+package-lock.json
